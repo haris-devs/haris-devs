@@ -55,7 +55,7 @@ I believe technology should **solve real problems and help people.**
 <p align="center">
 
 <a href="https://www.linkedin.com/in/haris-dev7" target="_blank">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" height="40"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.youtube.com/@harisdev.infy.uk7" target="_blank">
