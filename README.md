@@ -55,46 +55,44 @@ I believe technology should **solve real problems and help people.**
 <p align="center">
 
 <a href="https://www.linkedin.com/in/haris-dev7" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" height="40"/>
 </a>
 
 <a href="https://www.youtube.com/@harisdev.infy.uk7" target="_blank">
-<img src="https://cdn.simpleicons.org/youtube/FF0000" height="40" />
+<img src="https://cdn.simpleicons.org/youtube" height="40" />
 </a>
 
 <a href="https://www.tiktok.com/@haris.devs" target="_blank">
-<img src="https://cdn.simpleicons.org/tiktok/ffffff" height="40" />
+<img src="https://cdn.simpleicons.org/tiktok" height="40" />
 </a>
 
 <a href="https://t.me/haris_dev" target="_blank">
-<img src="https://cdn.simpleicons.org/telegram/26A5E4" height="40" />
+<img src="https://cdn.simpleicons.org/telegram" height="40" />
 </a>
 
 <a href="https://wa.me/923299562142" target="_blank">
-<img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40" />
+<img src="https://cdn.simpleicons.org/whatsapp" height="40" />
 </a>
 
 <a href="https://m.me/harisdev.infy.uk" target="_blank">
-<img src="https://cdn.simpleicons.org/messenger/0078FF" height="40" />
+<img src="https://cdn.simpleicons.org/messenger" height="40" />
 </a>
 
 <a href="https://instagram.com/harisdev.infy.uk" target="_blank">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" />
+<img src="https://cdn.simpleicons.org/instagram" height="40" />
 </a>
 
 <a href="https://www.facebook.com/harisdev.infy.uk/" target="_blank">
-<img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" />
+<img src="https://cdn.simpleicons.org/facebook" height="40" />
 </a>
 
-
 <a href="https://pinterest.com/harisdevinfyuk" target="_blank">
-<img src="https://cdn.simpleicons.org/pinterest/BD081C" height="40" />
+<img src="https://cdn.simpleicons.org/pinterest" height="40" />
 </a>
 
 </p>
 
 ---
-
 ## Tech Stack
 
 <p align="center">
