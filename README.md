@@ -94,41 +94,51 @@ I believe technology should **solve real problems and help people.**
 
 ---
 
+---
+
 ## Projects & Work
 
-Portfolio  
-https://haris-devs.vercel.app
-
-Hire Me  
-https://hire-devs.vercel.app
-
-Harix Dev  
-https://harix-dev.vercel.app
+<p align="center">
+  <a href="https://haris-devs.vercel.app">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  
+  <a href="https://hire-devs.vercel.app">
+    <img src="https://img.shields.io/badge/💼 Hire%20Me-Available-success?style=for-the-badge" />
+  </a>
+  
+  <a href="https://harix-dev.vercel.app">
+    <img src="https://img.shields.io/badge/🚀 Harix%20Dev Co-Explore-black?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ## Contact Me
 
-Business Email  
-haris.devhub@gmail.com
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-haris.devhub%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</p>
 
-If you want to:
-
-• collaborate on a Flutter project  
-• build an app idea  
-• work on startup projects  
-
-Feel free to reach out.
+<p align="center">
+If you want to collaborate, build an app idea, or work on a startup project — feel free to reach out.
+</p>
 
 ---
 
 ## Philosophy
 
-> Coding with faith, building with purpose.  
-> Technology should benefit people and create positive impact.
+<p align="center">
+  <em>
+    Coding with faith, building with purpose.<br>
+    Technology should benefit people and create positive impact.
+  </em>
+</p>
 
 ---
 
-⭐ If you like my work, consider following my GitHub.
+<p align="center">
+  ⭐ If you like my work, consider following my GitHub.
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0077FF&height=100&section=footer"/>
