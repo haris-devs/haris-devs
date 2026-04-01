@@ -1,28 +1,41 @@
 <h1 align="center">Hi 👋, I'm Haris Dev</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&color=00C2FF&center=true&vCenter=true&width=650&lines=Android+Developer;Kotlin+%7C+Firebase+%7C+Jetpack+Compose;Building+Modern+Android+Apps;Creating+Technology+That+Helps+People" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&color=00C2FF&center=true&vCenter=true&width=650&lines=Flutter+Developer;Dart+%7C+Firebase+%7C+Clean+Architecture;Building+Cross-Platform+Apps;Creating+Technology+That+Helps+People&background=00000000&pause=1000" />
 </p>
 
-<h3 align="center">Android Developer • App Builder • Tech Creator</h3>
+<h3 align="center">Flutter Developer • App Builder • Tech Creator</h3>
 
 <p align="center">
-Building modern Android apps with Kotlin, Firebase and clean UI.<br>
+Building modern cross-platform apps with Flutter.<br>
 Coding with purpose to create useful technology for people.
 </p>
 
-<img align="right" alt="android-coding" width="340" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" 
+    width="300"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-00C2FF?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge&logo=code&logoColor=white"/>
+</p>
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0077FF&height=100&section=header"/>
 
 ## About Me
 
-• Android Developer passionate about building useful mobile apps  
-• Currently learning **Jetpack Compose, MVVM Architecture, and REST APIs**  
-• Building real world apps using **Kotlin, Firebase and modern Android tools**  
+• Flutter Developer passionate about building useful mobile apps  
+• Currently learning **Flutter, Clean Architecture, and REST APIs**  
+• Building real world apps using **Dart, Firebase and modern tools**  
 • Sharing my development journey through **YouTube tutorials and app launches**  
-• Interested in **startup projects, Android collaborations and meaningful tech**
+• Interested in **startup projects, collaborations and meaningful tech**
 
 I believe technology should **solve real problems and help people.**
 
@@ -48,8 +61,6 @@ I believe technology should **solve real problems and help people.**
 
 ---
 
-
-
 ## Connect With Me
 
 <p align="center">
@@ -62,28 +73,12 @@ I believe technology should **solve real problems and help people.**
 <img src="https://cdn.simpleicons.org/youtube" height="40" />
 </a>
 
-<a href="https://www.tiktok.com/@haris.devs" target="_blank">
-<img src="https://cdn.simpleicons.org/tiktok" height="40" />
-</a>
-
 <a href="https://t.me/haris_dev" target="_blank">
 <img src="https://cdn.simpleicons.org/telegram" height="40" />
 </a>
 
 <a href="https://wa.me/923299562142" target="_blank">
 <img src="https://cdn.simpleicons.org/whatsapp" height="40" />
-</a>
-
-<a href="https://m.me/harisdev.infy.uk" target="_blank">
-<img src="https://cdn.simpleicons.org/messenger" height="40" />
-</a>
-
-<a href="https://instagram.com/harisdev.infy.uk" target="_blank">
-<img src="https://cdn.simpleicons.org/instagram" height="40" />
-</a>
-
-<a href="https://www.facebook.com/harisdev.infy.uk/" target="_blank">
-<img src="https://cdn.simpleicons.org/facebook" height="40" />
 </a>
 
 <a href="https://pinterest.com/harisdevinfyuk" target="_blank">
@@ -93,55 +88,12 @@ I believe technology should **solve real problems and help people.**
 </p>
 
 ---
+
 ## Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase,sqlite,git,github,figma&perline=8" />
-
-</p>
-
----
-
-## GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Haris-Ktk&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haris-Ktk&layout=compact&theme=tokyonight" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haris-Ktk&theme=tokyonight"/>
-
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haris-Ktk&theme=tokyonight"/>
-
-</p>
-
----
-
-## Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/Haris-Ktk">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haris-Ktk&repo=One-Step-Today&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/Haris-Ktk">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Haris-Ktk&repo=Moment-Me-Now&theme=tokyonight"/>
-</a>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,git,github,figma&perline=7" />
 
 </p>
 
@@ -167,7 +119,7 @@ haris.devhub@gmail.com
 
 If you want to:
 
-• collaborate on an Android project  
+• collaborate on a Flutter project  
 • build an app idea  
 • work on startup projects  
 
@@ -183,3 +135,5 @@ Feel free to reach out.
 ---
 
 ⭐ If you like my work, consider following my GitHub.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0077FF&height=100&section=footer"/>
