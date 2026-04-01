@@ -11,12 +11,7 @@ Building modern cross-platform apps with Flutter.<br>
 Coding with purpose to create useful technology for people.
 </p>
 
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" 
-    width="300"
-  />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-00C2FF?style=for-the-badge&logo=flutter&logoColor=white"/>
