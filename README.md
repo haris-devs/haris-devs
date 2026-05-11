@@ -117,11 +117,11 @@ I believe technology should **solve real problems and help people.**
 ## Contact Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Email-haris.devhub%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-haris.inboxme%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
 <p align="center">
-If you want to collaborate, build an app idea, or work on a startup project — feel free to reach out.
+If you want to collaborate, build an app idea, or work on a startup project feel free to reach out.
 </p>
 
 ---
