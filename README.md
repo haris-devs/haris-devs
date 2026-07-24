@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:0077FF,100:6A11CB&height=220&section=header&text=Haris%20Dev&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20App%20Builder%20%7C%20Tech%20Creator&descAlignY=58&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:0077FF,100:6A11CB&height=220&section=header&text=Muhammad%20Haris&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20App%20Builder%20%7C%20Tech%20Creator&descAlignY=58&descAlign=50"/>
 
 <br>
 
